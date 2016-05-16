@@ -3,8 +3,9 @@ package pk1;
 //dfsfdfsfdsf
 //tester1
  //jkjkjkkjkj
-import pk1.HelloPease;
+
 import junit.framework.*;
+import pk1.HelloPease;
 
 public class  TestHelloPease extends TestCase {
   public void testSimpleMessage() {
